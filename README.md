@@ -16,13 +16,19 @@ And mostly, we are completely ****💯 **free** with **zero commission.**
 
 ### **The Documentatio**n
 
-If you are entirely new to Casagbic and want to know what Casagbic is, you can continue with...
+If you are entirely new to Casagbic and want to know what Casagbic is?
 
 {% page-ref page="getting-started.md" %}
 
-Want to start with a new project? then
+Want to start with a new project? 
 
 {% page-ref page="creating-new-project.md" %}
+
+Learn about components and blocks.
+
+### Questions
+
+
 
 
 
