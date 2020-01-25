@@ -12,7 +12,11 @@ description: 'Effortless, Build best, Serve fabulous.'
 
 ![](.gitbook/assets/image%20%281%29.png)
 
-And mostly, we are completely ****💯 **free** with **zero commission.**
+* Lots of components, more than 200+ components
+* A unique and beautiful [community ](https://community.casagbic.com)forum with wonderful cabulers, for your questions and answers.\(Made with flarum - open source\)
+* And mostly, we are completely ****💯 **free** with **zero % commission.**
+
+
 
 ### **The Documentatio**n
 
@@ -28,7 +32,21 @@ Learn about components and blocks.
 
 ### Questions
 
+Most widely asked questions by users
 
+| Most widely asked questions by users | More questions and answers | Direct contact |
+| :--- | :--- | :--- |
+| [FAQ](https://casagbic-1.gitbook.io/docs/faq) | [Casagbic community](https://community.casagbic.com) | Contact us via [email](mailto:support@casagbic.com) |
+
+{% page-ref page="faq.md" %}
+
+More questions and answers
+
+{% embed url="https://community.casagbic.com" %}
+
+
+
+{% embed url="https://mailto:support@casagbic.com" %}
 
 
 
